@@ -1,0 +1,30 @@
+.img-container{
+    height: 100%;
+    bottom: 0;
+}
+img{
+    width: 98.8vw ;
+    height: 90vh;
+}
+.centered {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.upper{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-weight: bolder;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+  .btn{
+    margin: 3rem;
+    padding: 1.5rem;
+    width: 9rem;
+    background-color: black !important;
+    
+  }

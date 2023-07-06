@@ -1,0 +1,25 @@
+footer{
+    position: static;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    /* margin-top: 1rem; */
+    height: 23vh;
+    background-color: black;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+.row{
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
